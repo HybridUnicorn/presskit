@@ -1,0 +1,22 @@
+
+body {
+	background: white;
+}
+
+header {
+	background: #ff9900;
+	margin-bottom: 32px;
+}
+
+header canvas {
+	margin: 0 auto;
+}
+
+.mirror {
+	transform: scale(-1, 1);
+	display: inline-block;
+}
+
+#full img {
+	width: 100%;
+}
